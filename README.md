@@ -1,4 +1,4 @@
-# Hi, I'm trashpanda62
+# Hi, I'm Trashpanda62
 
 Bannerlord modder and indie game developer. I write the foundation-layer mods other mods depend on, the bug fixes that should have been in the base game, and the dependency loaders that keep heavy modlists from imploding when TaleWorlds ships a beta branch.
 
