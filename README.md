@@ -6,9 +6,17 @@ Bannerlord modder and indie game developer. I write the foundation-layer mods ot
 
 🛠️ **[BetaDeps](https://github.com/Trashpanda62/Betadeps)** — A single drop-in module for Mount & Blade II: Bannerlord that replaces the entire BUTR dependency stack (Harmony + UIExtenderEx + ButterLib + MCM) with one folder, one load entry, and one settings UI. MIT-licensed and free.
 
+## Where this is going
+
+BetaDeps right now is a drop-in replacement for the BUTR dependency stack. That's the starting point, not the destination. The end goal is a single thing: an **always-compatible modding kit** that keeps your modded Bannerlord running through every TaleWorlds update, every beta branch, every patch that normally breaks half your modlist overnight.
+
+When TaleWorlds pushes a game update, BetaDeps gets updated to match — before the modlist starts dying. Mods that would crash the game on the new version get **auto-disabled** with a clear note telling you why, so the launcher boots even when individual mods are temporarily broken upstream. You hit Play, the game starts. Every time.
+
+The goal: **you keep playing, no matter what.**
+
 ## Where to find me
 
-- 🎮 **Nexus Mods** — [my mod page](https://www.nexusmods.com/mountandblade2bannerlord) (download free mods here)
+- 🎮 **Nexus Mods** — [my mod page](https://www.nexusmods.com/mountandblade2bannerlord/mods/11274) (download free mods here)
 - ☕ **Patreon** — [patreon.com/Trashpanda62](https://patreon.com/Trashpanda62) (support the work or commission a custom mod)
 - 🐙 **GitHub** — you're already here
 
